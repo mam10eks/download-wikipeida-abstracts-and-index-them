@@ -2,7 +2,6 @@ package com.empty_stack.wikipedia_abstract_index_creator;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.net.URL;
 import java.nio.file.Paths;
 import java.util.stream.Stream;
 
